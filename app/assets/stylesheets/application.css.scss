@@ -22,6 +22,15 @@ h1, h2, h3 {
     border: none;
 }
 
+.navbar-brand {
+    font-family: 'Open Sans', sans-serif;
+    font-weight: 800;
+}
+
+.navbar-right {
+    font-weight: 800;
+}
+
 // Control Navbar and About
 .navbar-default .navbar-brand,
 .navbar-default .navbar-nav > li > a{
